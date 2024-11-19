@@ -19,5 +19,5 @@
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyoung21&show_icons=true&locale=en&layout=compact&card_width=450&theme=default&hide_border=true" alt="eyoung21" style="width: 435px; " />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyoung21&hide_border=true" alt="eyoung21" style="width: 400px; height: 320px;" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyoung21&hide_border=true" alt="eyoung21" style="width: 410px" />
 </p>
