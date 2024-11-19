@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eli Young</h1>
 <h3 align="center">A passionate SWE from the US</h3>
 
-- 🔭 I’m currently working on [Lock In](https://github.com/EYoung21/Lock-In)
+- 🔭 I’m currently trying to prioritize work on [Lock In](https://github.com/EYoung21/Lock-In)
 
 - 🌱 I’m currently learning **everything. the learning is omnipresent**
 
