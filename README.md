@@ -19,5 +19,5 @@
 
 <p style="display: flex; justify-content: space-between; align-items: center; gap: 400px;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyoung21&show_icons=true&locale=en&layout=compact&card_width=450&theme=default&hide_border=true" alt="eyoung21" style="width: 433px; " />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyoung21&hide_border=true" alt="eyoung21" style="width: 407px" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyoung21&hide_border=true" alt="eyoung21" style="width: 406px" />
 </p>
