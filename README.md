@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eli Young</h1>
 <h3 align="center">A passionate SWE from the US</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eyoung21&label=Profile%20views&color=0e75b6&style=flat" alt="eyoung21" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eyoung21" alt="eyoung21" /></a> </p>
-
 - 🔭 I’m currently working on [Lock In](https://github.com/EYoung21/Lock-In)
 
 - 🌱 I’m currently learning **everything. the learning is omnipresent**
