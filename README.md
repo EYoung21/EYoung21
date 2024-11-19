@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **everything. the learning is omnipresent**
 
-- 👨‍💻 My CS portfolio [eyoung21.github.io]([eyoung21.github.io](https://eyoung21.github.io/))
+- 👨‍💻 My CS portfolio [eyoung21.github.io](https://eyoung21.github.io/)
 
 - 📫 How to reach me **eliyoung4now@gmail.com**
 
