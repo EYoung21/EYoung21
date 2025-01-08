@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eli Young</h1>
 <h3 align="center">A passionate SWE from the US</h3>
 
-- 🔭 I’m currently trying to prioritize work on a project for my Statistics class, analyzing fatigue's effect on muscle memory-related tasks (like free throws): [Free Throw vs. Fatigue](https://github.com/EYoung21/FreeThrowVSFatigue)
+- 🔭 I'm currently working on an app in TS and React Native that will help users prevent distractions on their phones while trying to stay on task.
 
 - 🌱 I’m currently learning **everything. the learning is omnipresent**
 
