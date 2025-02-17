@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eli Young</h1>
 <h3 align="center">A passionate SWE from the US</h3>
 
-- 🔭 I'm currently working on an app in TS and React Native that will help users prevent distractions on their phones while trying to stay on task.
+- 🔭 Right now I'm prioritizing work on an app in TS and React Native that will help users prevent distractions on their phones while trying to stay on task. I plan to release it on IOS and Android sometime this Spring.
 
 - 🌱 I’m currently learning **everything. the learning is omnipresent**
 
