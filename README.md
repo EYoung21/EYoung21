@@ -14,17 +14,13 @@
 <a href="https://linkedin.com/in/eliyoung12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eliyoung12" height="30" width="40" /></a>
 </p>
 
-## 📊 My Programming Languages
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EYoung21&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EYoung21&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_rank=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EYoung21&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" />
 </p>
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EYoung21&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_rank=true" alt="Eli's GitHub Stats" />
-</p>
-
-## 🔥 GitHub Streak Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EYoung21&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats" />
 </p>
@@ -81,3 +77,10 @@
 <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> </a>
 <a href="https://min.io/" target="_blank" rel="noreferrer"> <img src="https://min.io/resources/img/logo/MINIO_wordmark.png" alt="minio" width="40" height="40"/> </a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://media.makeagif.com/media/11-13-2013/feQ4H-.gif" alt="Ah ah ah, you didn't say the magic word" width="400"/>
+  <p><i>"Ah ah ah, you didn't say the magic word!"</i></p>
+</div>
