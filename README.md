@@ -25,6 +25,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EYoung21&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats" />
 </p>
 
+> **📝 Note:** The "Most Used Languages" percentages reflect my public GitHub activity and include generated files, configuration files, and metadata - so they don't necessarily represent my actual experience level with different languages. But hey, it's fun to look at! 🎯
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <!-- Languages -->
