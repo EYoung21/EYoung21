@@ -81,6 +81,6 @@
 ---
 
 <div align="center">
-  <img src="https://i.makeagif.com/media/11-13-2013/feQ4H-.gif" alt="Ah ah ah, you didn't say the magic word" width="400"/>
+  <img src="https://i.imgur.com/E6g6JBA.gif" alt="Ah ah ah, you didn't say the magic word" width="400"/>
   <p><i>"Ah ah ah, you didn't say the magic word!"</i></p>
 </div>
