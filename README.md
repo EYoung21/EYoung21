@@ -21,7 +21,7 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EYoung21&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Eli's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EYoung21&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_rank=true" alt="Eli's GitHub Stats" />
 </p>
 
 ## 🔥 GitHub Streak Stats
