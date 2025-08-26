@@ -21,10 +21,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EYoung21&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EYoung21&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats" />
-</p>
-
 > **Note:** The "Most Used Languages" percentages reflect my public GitHub activity and include generated files, configuration files, and metadata - so they don't necessarily represent my actual experience level with different languages. But hey, it's fun to look at! 🎯
 
 <h3 align="left">Languages and Tools:</h3>
