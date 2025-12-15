@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eli Young</h1>
 <h3 align="center">A passionate SWE from the US</h3>
 
-- 🔭 Right now I'm prioritizing work on an app in TS and React Native that will help users prevent distractions on their phones while trying to stay on task. I plan to release it on IOS and Android this Summer.
+- 🔭 Right now, I'm prioritizing building AlgoArena.net: the next leetcode.com with a bit of chess.com mixed in.
+
+- I recently finished my first mobile app! It's in TS and React Native that will help users prevent distractions on their phones while trying to stay on task. Check it out on IOS and Android, download links at https://trylockin.com !!
 
 - 🌱 I’m currently learning **everything. the learning is omnipresent**
 
