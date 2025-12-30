@@ -39,7 +39,9 @@
   </a>
 </p>
 
-> **🛠️ I built this!** GitHub's default contribution graph counts commits, but one commit could be 2 lines while another is 2,000 lines. That's not a fair picture of actual work! So I built **[True GitHub Commit Graph](https://github.com/EYoung21/true_github_commit_graph)** - it measures contributions by **lines of code** instead of commit count, and automatically filters out data files (JSON, CSV, lock files, etc.) to show only real coding work. Check out the repo if you want one for your profile too!
+> **🛠️ I built this!** GitHub's default contribution graph counts commits, but one commit could be 2 lines while another is 2,000 lines. That's not a fair picture of actual work! So I built **[True GitHub Commit Graph](https://github.com/EYoung21/true_github_commit_graph)** - it measures contributions by **lines of code** instead of commit count, and automatically filters out data files (JSON, CSV, lock files, etc.) to show only real coding work. 
+> 
+> **Note:** Due to Vercel's free tier 10-second timeout limit, this shows the last X commits I can fetch in that time (everyone can use it for free!). If you clone the repo and deploy with an upgraded Vercel account (25-second timeout), you can see the full yearly graph and stats instead. Check out the repo if you want one for your profile too!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
