@@ -28,11 +28,15 @@
 ## 📈 True GitHub Commit Graph
 
 <p align="center">
-  <img src="https://true-github-commit-graph.vercel.app/api/graph?username=EYoung21&theme=github_dark&hide_border=true" alt="True Contribution Graph" />
+  <a href="https://github.com/EYoung21/true_github_commit_graph">
+    <img src="https://true-github-commit-graph.vercel.app/api/graph?username=EYoung21&theme=github_dark&hide_border=true&v=1" alt="True Contribution Graph" />
+  </a>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://true-github-commit-graph.vercel.app/api/stats?username=EYoung21&theme=github_dark&hide_border=true" alt="Code Stats" />
+  <a href="https://github.com/EYoung21/true_github_commit_graph">
+    <img width="48%" src="https://true-github-commit-graph.vercel.app/api/stats?username=EYoung21&theme=github_dark&hide_border=true&v=1" alt="Code Stats" />
+  </a>
 </p>
 
 > **🛠️ I built this!** GitHub's default contribution graph counts commits, but one commit could be 2 lines while another is 2,000 lines. That's not a fair picture of actual work! So I built **[True GitHub Commit Graph](https://github.com/EYoung21/true_github_commit_graph)** - it measures contributions by **lines of code** instead of commit count, and automatically filters out data files (JSON, CSV, lock files, etc.) to show only real coding work. Check out the repo if you want one for your profile too!
