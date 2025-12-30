@@ -29,7 +29,7 @@
 
 <p align="center">
   <a href="https://github.com/EYoung21/true_github_commit_graph">
-    <img src="https://true-github-commit-graph.vercel.app/api/graph?username=EYoung21&theme=github_dark&hide_border=true&v=5" alt="True Contribution Graph" />
+    <img src="https://true-github-commit-graph.vercel.app/api/graph?username=EYoung21&theme=github_dark&hide_border=true&v=6" alt="True Contribution Graph" />
   </a>
 </p>
 
