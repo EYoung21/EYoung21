@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eli Young</h1>
 <h3 align="center">A passionate SWE from the US</h3>
 
-- 🔭 Most of my time goes to [AlgoArena](https://AlgoArena.net)—rigorous CS practice and live competition, with AI treated as part of the skill, not a dirty secret.
+- 🔭 I spend most of my time on [AlgoArena](https://AlgoArena.net), building an engaging home for practicing and competing coding skills, CS education, and hiring assessments aligned with how engineers use AI in practice.
 
 - I recently finished my first mobile app! It's in TS and React Native that will help users prevent distractions on their phones while trying to stay on task. Check it out on IOS and Android, download links at https://trylockin.com !!
 
@@ -67,7 +67,7 @@
     <td align="center"><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></a></td>
     <td align="center"><a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/></a></td>
     <td align="center"><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" alt="React Native" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a></td>
@@ -92,7 +92,7 @@
     <td align="center"><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/></a></td>
     <td align="center"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a></td>
     <td align="center"><a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/></a></td>
-    <td align="center"><a href="https://min.io/" target="_blank" rel="noreferrer"><img src="https://min.io/resources/img/logo/MINIO_wordmark.png" alt="MinIO" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://min.io/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/minio" alt="MinIO" width="40" height="40"/></a></td>
   </tr>
 </table>
 
