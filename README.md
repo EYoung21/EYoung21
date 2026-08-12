@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eli Young</h1>
+ <h1 align="center">Hi 👋, I'm Eli Young</h1>
 <h3 align="center">A passionate SWE from the US</h3>
 
 - 🔭 I spend most of my time on [AlgoArena](https://AlgoArena.net), building an engaging home for practicing and competing coding skills, CS education, and hiring assessments aligned with how engineers use AI in practice.
@@ -25,6 +25,7 @@
 
 > **Note:** The "Most Used Languages" percentages reflect my public GitHub activity and include generated files, configuration files, and metadata - so they don't necessarily represent my actual experience level with different languages. But hey, it's fun to look at! 🎯
 
+<!--
 ## 📈 True GitHub Commit Graph
 
 <p align="center">
@@ -42,6 +43,7 @@
 > **🛠️ I built this!** GitHub's default contribution graph counts commits, but one commit could be 2 lines while another is 2,000 lines. That's not a fair picture of actual work! So I built **[True GitHub Commit Graph](https://github.com/EYoung21/true_github_commit_graph)** - it measures contributions by **lines of code** instead of commit count, and automatically filters out data files (JSON, CSV, lock files, etc.) to show only real coding work. 
 > 
 > **Note:** Due to Vercel's free tier 10-second timeout limit, this shows the last X commits I can fetch in that time (everyone can use it for free!). If you clone the repo and deploy with an upgraded Vercel account (25-second timeout), you can see the full yearly graph and stats instead. Check out the repo if you want one for your profile too!
+-->
 
 <h3 align="left">Languages and Tools:</h3>
 <table>
