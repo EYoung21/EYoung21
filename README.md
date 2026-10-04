@@ -3,7 +3,7 @@
 
 - 🔭 I spend most of my time on [AlgoArena](https://AlgoArena.net), building an engaging home for practicing and competing coding skills, CS education, and hiring assessments aligned with how engineers use AI in practice.
 
-- I recently finished my first mobile app! It's in TS and React Native that will help users prevent distractions on their phones while trying to stay on task. Check it out on IOS and Android, download links at https://trylockin.com !!
+- I recently finished my first mobile app! It's in TS and React Native that will help users prevent distractions on their phones while trying to stay on task. Check it out on IOS and Android, download links at https://lockinsquad.com !!
 
 - 🌱 I’m currently learning **everything. the learning is omnipresent**
 
